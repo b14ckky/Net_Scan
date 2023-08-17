@@ -12,7 +12,7 @@
 Simple Network Device Discovery Tool
 
 ## Installation
-```bash
+```
 sudo pip install argparse scapy colorama termcolor
 git clone https://github.com/b14ckky/Net_Scan
 cd Net_Scan
